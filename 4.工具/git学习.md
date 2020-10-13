@@ -38,11 +38,13 @@ $ git status -s //精简版
 
 删除前目录状态
 
-![1](E:\Github\Learningnote\img\1.jpg)
+![1](https://raw.githubusercontent.com/nEvErMoReaken/Learningnote/master/img/1.jpg)
 
 
 
-![2](E:\Github\Learningnote\img\2.png)
+![2](https://raw.githubusercontent.com/nEvErMoReaken/Learningnote/master/img/2.png)
+
+
 
 ```shell
 $ rm -rf img project test text 
